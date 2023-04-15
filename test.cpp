@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
-#define maxstrlen (259)  
+#asdsadasdasdsad
+#sdadsadasdsadasdas
+
 typedef unsigned char sstring[maxstrlen +1];
 void init(sstring &s)
 {
